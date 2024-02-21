@@ -24,6 +24,7 @@
     <ProjectGuid>{da779ac9-f083-48e4-a42a-4936a21750cc}</ProjectGuid>
     <RootNamespace>My21022024ТерентьевАртём</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>21.02.2024_Терентьев Артём_ДЗ_Сумма цифр числа</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
